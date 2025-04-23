@@ -3,6 +3,7 @@
         "iostream": "cpp",
         "xutility": "cpp",
         "format": "cpp",
-        "stack": "cpp"
+        "stack": "cpp",
+        "xiosbase": "cpp"
     }
 }
